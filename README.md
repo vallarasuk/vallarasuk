@@ -79,12 +79,12 @@ I manage automated content pipelines for space and professional growth.
 
 ### 🏆 Creator Achievements
 <p align="left">
-  <img src="https://img.shields.io/youtube/channel/subscribers/YOUR_DAILY_FOCUS_CHANNEL_ID?style=for-the-badge&logo=youtube&color=FF0000&label=Daily_Focus_Track%20Subs" alt="Daily Focus Track Subscribers" />
-  <img src="https://img.shields.io/youtube/channel/views/YOUR_DAILY_FOCUS_CHANNEL_ID?style=for-the-badge&logo=youtube&color=FF0000&label=Views" alt="Daily Focus Track Views" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC1Avi9LDpxC1AgQVRDdmrrw?style=for-the-badge&logo=youtube&color=FF0000&label=Daily_Focus_Track%20Subs" alt="Daily Focus Track Subscribers" />
+  <img src="https://img.shields.io/youtube/channel/views/UC1Avi9LDpxC1AgQVRDdmrrw?style=for-the-badge&logo=youtube&color=FF0000&label=Views" alt="Daily Focus Track Views" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/youtube/channel/subscribers/YOUR_SPACE_GALLERY_CHANNEL_ID?style=for-the-badge&logo=youtube&color=1da1f2&label=Space_Gallary%20Subs" alt="Space Gallary Subscribers" />
-  <img src="https://img.shields.io/youtube/channel/views/YOUR_SPACE_GALLERY_CHANNEL_ID?style=for-the-badge&logo=youtube&color=1da1f2&label=Views" alt="Space Gallary Views" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC2iT7rfPPYj_V8-RDM6nyzQ?style=for-the-badge&logo=youtube&color=1da1f2&label=Space_Gallary%20Subs" alt="Space Gallary Subscribers" />
+  <img src="https://img.shields.io/youtube/channel/views/UC2iT7rfPPYj_V8-RDM6nyzQ?style=for-the-badge&logo=youtube&color=1da1f2&label=Views" alt="Space Gallary Views" />
 </p>
 
 ---
