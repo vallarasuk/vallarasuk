@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=🚀+React+%26+Next.js+Developer;⚡+Full-Stack+Engineer;🧩+Browser+Extension+Architect;🤖+Automation+%26+Content+Ecosystems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=React+%26+Next.js+Developer;Full-Stack+Engineer;Browser+Extension+Architect;Automation+%26+Content+Ecosystems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -97,6 +97,9 @@ I manage automated content pipelines for space and professional growth.
 <p align="left">
   <a href="https://youtube.com/@space_gallary" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC2iT7rfPPYj_V8-RDM6nyzQ?style=for-the-badge&logo=youtube&color=1da1f2&label=Space_Gallary%20Subs" alt="Space Gallary Subscribers" /></a>
   <a href="https://youtube.com/@space_gallary" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UC2iT7rfPPYj_V8-RDM6nyzQ?style=for-the-badge&logo=youtube&color=1da1f2&label=Views" alt="Space Gallary Views" /></a>
+</p>
+<p align="left">
+  <a href="https://www.keybr.com/profile/340e1xv" target="_blank"><img src="https://img.shields.io/badge/Keybr-Typing_Speed_Profile-32CD32?style=for-the-badge&logo=keyboard&logoColor=white" alt="Keybr Profile" /></a>
 </p>
 
 ---
