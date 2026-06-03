@@ -16,6 +16,13 @@
 
 <br/>
 
+### 💻 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,vite,python,aws,firebase,git,github,vscode,figma&perline=15" alt="Tech Stack" />
+</p>
+
+<br/>
+
 <p align="center">
   <a href="https://vallarasuk.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-vallarasuk.com-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
@@ -116,6 +123,16 @@ I manage automated content pipelines for space and professional growth.
 
 ---
 
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vallarasuk&show_icons=true&theme=radical&hide_border=true" alt="Vallarasu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasuk&theme=radical&hide_border=true" alt="Vallarasu's Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallarasuk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ### 🐍 Contribution Snake Animation
 <div align="center">
