@@ -9,12 +9,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vallarasuk&theme=radical&no-frame=true&margin-w=15&margin-h=15&v=4" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vallarasuk&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph&v=4" width="100%" />
 </div>
 
