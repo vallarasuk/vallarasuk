@@ -79,7 +79,7 @@ I manage automated content pipelines for space and professional growth.
 
 ### 📬 Connect With Me
 <p align="left">
-<a href="https://vallarasuk.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="vallarasuk.com" height="30" width="40" /></a>
+<a href="https://vallarasuk.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="vallarasuk.com" height="30" width="40" /></a>
 <a href="https://linkedin.vallarasuk.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://github.vallarasuk.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 <a href="http://insta.vallarasuk.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
