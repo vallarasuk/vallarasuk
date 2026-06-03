@@ -6,23 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React+%26+Next.js+Architect;Full-Stack+Engineer;Browser+Extension+Expert;Content+Ecosystem+Builder" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-3d-vercel.vercel.app/api/3d-profile?username=vallarasuk&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" width="800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vallarasuk&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=vallarasuk&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-      </td>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=vallarasuk&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="400" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vallarasuk&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
 </div>
 
 <p align="center">
@@ -219,13 +212,13 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vallarasuk&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&hide_border=true&rank_icon=github&icon_color=00D9FF&title_color=00D9FF" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasuk&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vallarasuk&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&hide_border=true&rank_icon=github&icon_color=00D9FF&title_color=00D9FF&v=3" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasuk&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&v=3" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallarasuk&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00D9FF" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vallarasuk&theme=github_dark&utcOffset=8" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vallarasuk&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00D9FF&v=3" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vallarasuk&theme=github_dark&utcOffset=8&v=3" width="49%" />
 </div>
 
 <br/>
@@ -242,11 +235,9 @@
 
 <br/>
 
-## 📍 Visitor Map
+## 📍 Profile Views
 
 <div align="center">
-  <img src="https://repobeats.axiom.co/api/embed/your-repo-id.svg" />
-  <br/>
   <img src="https://profile-counter.glitch.me/vallarasuk/count.svg" />
 </div>
 
