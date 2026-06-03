@@ -1,27 +1,32 @@
-<h1 align="center">Hi there, I'm Vallarasu Kanthasamy 👋</h1>
-<h3 align="center">Full-Stack Engineer | Browser Extension Architect | Automation Specialist</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%2C%20I'm%20Vallarasu!%20%F0%9F%91%8B&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Browser%20Extension%20Architect%20%7C%20Automation%20Specialist&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=🚀+React+%26+Next.js+Developer;⚡+Full-Stack+Engineer;🧩+Browser+Extension+Architect;🤖+Automation+%26+Content+Ecosystems" alt="Typing SVG" />
+</p>
 
 <p align="center">
   I am a professional <strong>React Developer</strong> and <strong>Full-Stack Engineer</strong> with 3+ years of experience, currently working full-time at <strong>ThiDiff Technologies</strong> in Bengaluru. I specialize in building scalable tools, browser extensions, and automated content ecosystems.
 </p>
 
+<p align="center"><i>“Building at the intersection of development and automation.”</i></p>
+
+<br/>
+
 <p align="center">
   <a href="https://vallarasuk.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-vallarasuk.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-vallarasuk.com-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://dev.vallarasuk.com" target="_blank">
-    <img src="https://img.shields.io/badge/Dev_Blog-dev.vallarasuk.com-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Blog" />
+    <img src="https://img.shields.io/badge/Dev_Blog-dev.vallarasuk.com-FF5722?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Blog" />
   </a>
   <a href="https://linkedin.vallarasuk.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Browser+Extension+Architect;Automation+Specialist;Building+Scalable+Tools" alt="Typing SVG" />
-</div>
-
-<p align="center"><i>“Building at the intersection of development and automation.”</i></p>
 
 ---
 
