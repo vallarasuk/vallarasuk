@@ -9,13 +9,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vallarasuk&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vallarasuk&theme=radical&no-frame=true&margin-w=15&margin-h=15&v=4" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vallarasuk&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vallarasuk&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph&v=4" width="100%" />
 </div>
 
 <p align="center">
@@ -212,13 +212,13 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vallarasuk&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&hide_border=true&rank_icon=github&icon_color=00D9FF&title_color=00D9FF&v=3" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasuk&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&v=3" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vallarasuk&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&hide_border=true&rank_icon=github&icon_color=00D9FF&title_color=00D9FF&v=4" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasuk&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&v=4" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vallarasuk&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00D9FF&v=3" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vallarasuk&theme=github_dark&utcOffset=8&v=3" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vallarasuk&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00D9FF&v=4" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vallarasuk&theme=github_dark&utcOffset=8&v=4" width="49%" />
 </div>
 
 <br/>
@@ -235,13 +235,7 @@
 
 <br/>
 
-## 📍 Profile Views
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vallarasuk/count.svg" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%" />
