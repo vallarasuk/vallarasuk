@@ -91,27 +91,6 @@ I manage automated content pipelines for space and professional growth.
 
 ---
 
-### 🏆 Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vallarasuk&theme=radical&margin-w=15" alt="vallarasuk trophies" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vallarasuk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Vallarasu's GitHub stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallarasuk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="195"/>
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasuk&theme=radical&hide_border=true" alt="Vallarasu's GitHub streak" />
-</div>
-
----
 
 ### 🐍 Contribution Snake Animation
 <div align="center">
