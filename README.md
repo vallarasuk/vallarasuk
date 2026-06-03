@@ -72,8 +72,20 @@ graph TD
 ### 📺 Automation & Creator Brand
 I manage automated content pipelines for space and professional growth.
 
-- 🌌 **Space_Gallary:** [Instagram (NASA API Automation)](https://www.instagram.com/space_gallary/)
+- 🌌 **Space_Gallary:** [Instagram (NASA API Automation)](https://www.instagram.com/space_gallary/) | [YouTube](https://youtube.com/@space_gallary)
 - 🔥 **Daily_Focus_Track:** [YouTube (65+ Subs | 120k+ Views | 3.3k+ Videos)](https://www.youtube.com/@Daily_focus_Track) | [Threads](https://threads.net/@daily_focus_track) | [X/Twitter](https://x.com/DailyFocusTrack) | [Reddit](https://reddit.com/user/DailyFocusTrack) | [Instagram](https://instagram.com/daily_focus_track)
+
+---
+
+### 🏆 Creator Achievements
+<p align="left">
+  <img src="https://img.shields.io/youtube/channel/subscribers/YOUR_DAILY_FOCUS_CHANNEL_ID?style=for-the-badge&logo=youtube&color=FF0000&label=Daily_Focus_Track%20Subs" alt="Daily Focus Track Subscribers" />
+  <img src="https://img.shields.io/youtube/channel/views/YOUR_DAILY_FOCUS_CHANNEL_ID?style=for-the-badge&logo=youtube&color=FF0000&label=Views" alt="Daily Focus Track Views" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/youtube/channel/subscribers/YOUR_SPACE_GALLERY_CHANNEL_ID?style=for-the-badge&logo=youtube&color=1da1f2&label=Space_Gallary%20Subs" alt="Space Gallary Subscribers" />
+  <img src="https://img.shields.io/youtube/channel/views/YOUR_SPACE_GALLERY_CHANNEL_ID?style=for-the-badge&logo=youtube&color=1da1f2&label=Views" alt="Space Gallary Views" />
+</p>
 
 ---
 
