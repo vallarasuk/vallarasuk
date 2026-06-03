@@ -50,30 +50,30 @@ graph TD
 ---
 
 ### 🛠️ Professional Portfolio & Tools
-- **Core Portfolio:** [vallarasuk.com](https://vallarasuk.com) | [dev.vallarasuk.com](https://dev.vallarasuk.com)
-- **Developer Hubs:** [Awesome Resources](https://vallarasuk.com/resources) | [GitHub Resources Portal](https://github.com/vallarasuk/awesome-developer-resources)
-- **Web Utilities:** [ATS Resume Maker](https://atsresumemaker.vallarasuk.com/) | [Typer](https://typer.vallarasuk.com/) | [Place Finder](https://placefinder.vallarasuk.com/)
-- **Niche Platforms:** [Space Gallery](https://space.vallarasuk.com/) | [Books Hub](https://books.vallarasuk.com/) | [Live TV](https://livetv.vallarasuk.com/)
+- 💼 **Core Portfolio:** 🌐 [vallarasuk.com](https://vallarasuk.com) | ✍️ [dev.vallarasuk.com](https://dev.vallarasuk.com)
+- 📚 **Developer Hubs:** 🌟 [Awesome Resources](https://vallarasuk.com/resources) | 💻 [GitHub Resources Portal](https://github.com/vallarasuk/awesome-developer-resources)
+- 🧰 **Web Utilities:** 📄 [ATS Resume Maker](https://atsresumemaker.vallarasuk.com/) | ⌨️ [Typer](https://typer.vallarasuk.com/) | 📍 [Place Finder](https://placefinder.vallarasuk.com/) | 🔗 [urpage.in](https://urpage.in)
+- 🎯 **Niche Platforms:** 🌌 [Space Gallery](https://space.vallarasuk.com/) | 📖 [Books Hub](https://books.vallarasuk.com/) | 📺 [Live TV](https://livetv.vallarasuk.com/)
 
 ---
 
 ### 🔌 Extensions & Marketplaces
-**VS Code Marketplace:** 
-- [Auto Console Log](https://marketplace.visualstudio.com/items?itemName=VallarasuKanthasamy.auto-console-log-by-vallarasu-kanthasamy) | [View All Extensions](https://marketplace.visualstudio.com/publishers/VallarasuKanthasamy)
+**💻 VS Code Marketplace:** 
+- 🛠️ [Auto Console Log](https://marketplace.visualstudio.com/items?itemName=VallarasuKanthasamy.auto-console-log-by-vallarasu-kanthasamy) | 📦 [View All Extensions](https://marketplace.visualstudio.com/publishers/VallarasuKanthasamy)
 
-**Open VSX:** 
-- [Markdown Editor](https://open-vsx.org/extension/VallarasuKanthasamy/universal-spreadsheet-markdown-editor) | [Auto Console Log](https://open-vsx.org/extension/VallarasuKanthasamy/auto-console-log-by-vallarasu-kanthasamy)
+**🌐 Open VSX:** 
+- 📝 [Markdown Editor](https://open-vsx.org/extension/VallarasuKanthasamy/universal-spreadsheet-markdown-editor) | 🛠️ [Auto Console Log](https://open-vsx.org/extension/VallarasuKanthasamy/auto-console-log-by-vallarasu-kanthasamy)
 
-**Chrome Web Store:** 
-- [Tech Stack Checker](https://chromewebstore.google.com/detail/tech-stack-checker/lhcplmfhkmjobfnndaabeddibhimghgf?hl=en) | [Opacity Adjuster](https://chromewebstore.google.com/detail/opacity-adjuster/elgajofcbjicopepiodbabodkajnihog?hl=en)
+**🌍 Chrome Web Store:** 
+- 🔍 [Tech Stack Checker](https://chromewebstore.google.com/detail/tech-stack-checker/lhcplmfhkmjobfnndaabeddibhimghgf?hl=en) | 🌗 [Opacity Adjuster](https://chromewebstore.google.com/detail/opacity-adjuster/elgajofcbjicopepiodbabodkajnihog?hl=en)
 
 ---
 
 ### 📺 Automation & Creator Brand
 I manage automated content pipelines for space and professional growth.
 
-- 🌌 **Space_Gallary:** [Instagram (NASA API Automation)](https://www.instagram.com/space_gallary/) | [YouTube](https://youtube.com/@space_gallary)
-- 🔥 **Daily_Focus_Track:** [YouTube (65+ Subs | 120k+ Views | 3.3k+ Videos)](https://www.youtube.com/@Daily_focus_Track) | [Threads](https://threads.net/@daily_focus_track) | [X/Twitter](https://x.com/DailyFocusTrack) | [Reddit](https://reddit.com/user/DailyFocusTrack) | [Instagram](https://instagram.com/daily_focus_track)
+- 🌌 **Space_Gallary:** 📸 [Instagram (NASA API Automation)](https://www.instagram.com/space_gallary/) | ▶️ [YouTube](https://youtube.com/@space_gallary)
+- 🔥 **Daily_Focus_Track:** ▶️ [YouTube (65+ Subs | 120k+ Views | 3.3k+ Videos)](https://www.youtube.com/@Daily_focus_Track) | 🧵 [Threads](https://threads.net/@daily_focus_track) | 🐦 [X/Twitter](https://x.com/DailyFocusTrack) | 🤖 [Reddit](https://reddit.com/user/DailyFocusTrack) | 📸 [Instagram](https://instagram.com/daily_focus_track) | 📌 [Pinterest](https://pinterest.com/dailyfocustrack) | ✍️ [Medium](https://medium.com/@dailyfocustrack)
 
 ---
 
@@ -95,20 +95,14 @@ I manage automated content pipelines for space and professional growth.
   <a href="https://vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://dev.vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog"/></a>
   <a href="https://linkedin.vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Stack_Exchange-1E5397?style=for-the-badge&logo=stack-exchange&logoColor=white" alt="Stack Exchange"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft_MVP-1490DF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP"/></a>
   <a href="https://github.vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HackerNews-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white" alt="HackerNews"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://x.com/DailyFocusTrack" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.youtube.com/@Daily_focus_Track" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://reddit.com/user/DailyFocusTrack" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
   <a href="http://insta.vallarasuk.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HackHands-31A1C9?style=for-the-badge&logo=hackhands&logoColor=white" alt="HackHands"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://threads.net/@daily_focus_track" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
+  <a href="https://pinterest.com/dailyfocustrack" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
+  <a href="https://medium.com/@dailyfocustrack" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://chat.whatsapp.com/JzCFT47gI6aE8O6mJA96V0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
