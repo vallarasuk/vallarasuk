@@ -1,147 +1,257 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%2C%20I'm%20Vallarasu!%20%F0%9F%91%8B&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Browser%20Extension%20Architect%20%7C%20Automation%20Specialist&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,10,15,20,25,30&height=300&section=header&text=Vallarasu%20K&fontSize=70&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20Extension%20Architect%20%7C%20Creator&descAlignY=62&descAlign=50" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React+%26+Next.js+Architect;Full-Stack+Engineer;Browser+Extension+Expert;Content+Ecosystem+Builder" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-3d-vercel.vercel.app/api/3d-profile?username=vallarasuk&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" width="800" />
 </div>
 
 <br/>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=vallarasuk&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+      </td>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=vallarasuk&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=React+%26+Next.js+Developer;Full-Stack+Engineer;Browser+Extension+Architect;Automation+%26+Content+Ecosystems" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=vallarasuk&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/badge/Full--Stack_Engineer-3+_Years-00D9FF?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Currently_at-ThiDiff_Technologies-FF6B6B?style=for-the-badge&logo=google-chrome" />
 </p>
 
 <p align="center">
-  I am a professional <strong>React Developer</strong> and <strong>Full-Stack Engineer</strong> with 3+ years of experience, currently working full-time at <strong>ThiDiff Technologies</strong> in Bengaluru. I specialize in building scalable tools, browser extensions, and automated content ecosystems.
+  <b>⚡ Building scalable tools, browser extensions & automated content ecosystems</b><br/>
+  <i>“Engineering at the intersection of development and automation.”</i>
 </p>
-
-<p align="center"><i>“Building at the intersection of development and automation.”</i></p>
 
 <br/>
 
-### 💻 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,vite,python,aws,firebase,git,github,vscode,figma&perline=15" alt="Tech Stack" />
-</p>
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,aws,firebase,mongodb,postgres,redis,docker,kubernetes,tailwind,vite,git,github,figma,postman&perline=9" />
+</div>
 
 <br/>
 
+## 🎯 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎨 Portfolio Ecosystem</h3>
+        <p align="center">
+          <a href="https://vallarasuk.com" target="_blank">
+            <img src="https://img.shields.io/badge/Main_Portfolio-vallarasuk.com-3b5998?style=flat-square&logo=vercel" />
+          </a>
+          <a href="https://dev.vallarasuk.com" target="_blank">
+            <img src="https://img.shields.io/badge/Dev_Blog-dev.vallarasuk.com-FF5722?style=flat-square&logo=dev.to" />
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🔌 VS Code Extensions</h3>
+        <p align="center">
+          <a href="https://marketplace.visualstudio.com/items?itemName=VallarasuKanthasamy.auto-console-log-by-vallarasu-kanthasamy" target="_blank">
+            <img src="https://img.shields.io/badge/Auto_Console_Log-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+          </a>
+          <a href="https://marketplace.visualstudio.com/publishers/VallarasuKanthasamy" target="_blank">
+            <img src="https://img.shields.io/badge/View_All_Extensions-00D9FF?style=flat-square&logo=visual-studio-code" />
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/VS_Code_API-007ACC?style=flat-square&logo=visual-studio-code" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌐 Chrome Extensions</h3>
+        <p align="center">
+          <a href="https://chromewebstore.google.com/detail/tech-stack-checker/lhcplmfhkmjobfnndaabeddibhimghgf" target="_blank">
+            <img src="https://img.shields.io/badge/Tech_Stack_Checker-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+          </a>
+          <a href="https://chromewebstore.google.com/detail/opacity-adjuster/elgajofcbjicopepiodbabodkajnihog" target="_blank">
+            <img src="https://img.shields.io/badge/Opacity_Adjuster-34A853?style=flat-square&logo=google-chrome" />
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Manifest_V3-FF9800?style=flat-square&logo=google-chrome" />
+          <img src="https://img.shields.io/badge/Web_Extensions-FF4B2B?style=flat-square" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🛠️ Web Utilities</h3>
+        <p align="center">
+          <a href="https://atsresumemaker.vallarasuk.com/" target="_blank">
+            <img src="https://img.shields.io/badge/ATS_Resume_Maker-FF6B6B?style=flat-square" />
+          </a>
+          <a href="https://placefinder.vallarasuk.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Place_Finder-4ECDC4?style=flat-square" />
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+          <img src="https://img.shields.io/badge/PDF.js-F9F9F9?style=flat-square" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## 📺 Creator Network & Automation
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Daily_Focus_Track-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /><br/>
+        <img src="https://img.shields.io/youtube/channel/subscribers/UC1Avi9LDpxC1AgQVRDdmrrw?style=flat-square&logo=youtube&label=Subs&color=FF0000" />
+        <img src="https://img.shields.io/youtube/channel/views/UC1Avi9LDpxC1AgQVRDdmrrw?style=flat-square&logo=youtube&label=Views&color=FF0000" />
+        <br/>
+        <img src="https://img.shields.io/badge/120k+-Views-FF4500?style=flat-square" />
+        <img src="https://img.shields.io/badge/3.3k+-Videos-FFA500?style=flat-square" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Space_Gallary-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" /><br/>
+        <img src="https://img.shields.io/youtube/channel/subscribers/UC2iT7rfPPYj_V8-RDM6nyzQ?style=flat-square&logo=youtube&label=Subs&color=1DA1F2" />
+        <img src="https://img.shields.io/youtube/channel/views/UC2iT7rfPPYj_V8-RDM6nyzQ?style=flat-square&logo=youtube&label=Views&color=1DA1F2" />
+        <br/>
+        <img src="https://img.shields.io/badge/NASA_API-0B3D91?style=flat-square" />
+        <img src="https://img.shields.io/badge/Automated_Pipeline-00D9FF?style=flat-square" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/WhatsApp_Squad-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br/>
+        <a href="http://squad.vallarasuk.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Join_Community-128C7E?style=flat-square&logo=whatsapp" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Active_Community-Developer_Network-5865F2?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/VSCode_Extensions_Published-5+-007ACC?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/YouTube_Views-120k+-FF0000?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Chrome_Extensions-2+-4285F4?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Typing_Speed-Elite-32CD32?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
-  <a href="https://vallarasuk.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-vallarasuk.com-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://www.keybr.com/profile/340e1xv" target="_blank">
+    <img src="https://img.shields.io/badge/Check_Keybr_Profile-32CD32?style=for-the-badge&logo=keyboard&logoColor=white" />
   </a>
-  <a href="https://dev.vallarasuk.com" target="_blank">
-    <img src="https://img.shields.io/badge/Dev_Blog-dev.vallarasuk.com-FF5722?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Blog" />
+</p>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://vallarasuk.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.vallarasuk.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="https://github.vallarasuk.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/DailyFocusTrack" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Daily_focus_Track" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="http://insta.vallarasuk.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://chat.whatsapp.com/JzCFT47gI6aE8O6mJA96V0" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp_Squad-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
 
----
-
-### 🚀 Technical Ecosystem & Project Workflow
-I develop high-utility tools for developers and creators.
-
-```mermaid
-graph TD
-    A[Full-Stack Ecosystem] --> B(Web & Apps)
-    A --> C(Browser & IDE Extensions)
-    A --> D(Automation & Content)
-    
-    B --> B1[React/Next.js Apps]
-    B --> B2[ATS Resume Maker]
-    B --> B3[Place Finder]
-    
-    C --> C1[Chrome: Auto Console Log]
-    C --> C2[VS Code: Markdown Editor]
-    C --> C3[Chrome: Tech Stack Checker]
-    
-    D --> D1[NASA Space Automation]
-    D --> D2[Daily Focus Track Ops]
-    D --> D3[WhatsApp Squad Community]
-```
-
----
-
-### 🛠️ Professional Portfolio & Tools
-- 💼 **Core Portfolio:** 🌐 [vallarasuk.com](https://vallarasuk.com) | ✍️ [dev.vallarasuk.com](https://dev.vallarasuk.com)
-- 📚 **Developer Hubs:** 🌟 [Awesome Resources](https://vallarasuk.com/resources) | 💻 [GitHub Resources Portal](https://github.com/vallarasuk/awesome-developer-resources)
-- 🧰 **Web Utilities:** 📄 [ATS Resume Maker](https://atsresumemaker.vallarasuk.com/) | ⌨️ [Typer](https://typer.vallarasuk.com/) | 📍 [Place Finder](https://placefinder.vallarasuk.com/) | 🔗 [urpage.in](https://urpage.in)
-- 🎯 **Niche Platforms:** 🌌 [Space Gallery](https://space.vallarasuk.com/) | 📖 [Books Hub](https://books.vallarasuk.com/) | 📺 [Live TV](https://livetv.vallarasuk.com/)
-
----
-
-### 🔌 Extensions & Marketplaces
-**💻 VS Code Marketplace:** 
-- 🛠️ [Auto Console Log](https://marketplace.visualstudio.com/items?itemName=VallarasuKanthasamy.auto-console-log-by-vallarasu-kanthasamy) | 📦 [View All Extensions](https://marketplace.visualstudio.com/publishers/VallarasuKanthasamy)
-
-**🌐 Open VSX:** 
-- 📝 [Markdown Editor](https://open-vsx.org/extension/VallarasuKanthasamy/universal-spreadsheet-markdown-editor) | 🛠️ [Auto Console Log](https://open-vsx.org/extension/VallarasuKanthasamy/auto-console-log-by-vallarasu-kanthasamy)
-
-**🌍 Chrome Web Store:** 
-- 🔍 [Tech Stack Checker](https://chromewebstore.google.com/detail/tech-stack-checker/lhcplmfhkmjobfnndaabeddibhimghgf?hl=en) | 🌗 [Opacity Adjuster](https://chromewebstore.google.com/detail/opacity-adjuster/elgajofcbjicopepiodbabodkajnihog?hl=en)
-
----
-
-### 📺 Automation & Creator Brand
-I manage automated content pipelines for space and professional growth.
-
-- 🌌 **Space_Gallary:** 📸 [Instagram (NASA API Automation)](https://www.instagram.com/space_gallary/) | ▶️ [YouTube](https://youtube.com/@space_gallary)
-- 🔥 **Daily_Focus_Track:** ▶️ [YouTube (65+ Subs | 120k+ Views | 3.3k+ Videos)](https://www.youtube.com/@Daily_focus_Track) | 🧵 [Threads](https://threads.net/@daily_focus_track) | 🐦 [X/Twitter](https://x.com/DailyFocusTrack) | 🤖 [Reddit](https://reddit.com/user/DailyFocusTrack) | 📸 [Instagram](https://instagram.com/daily_focus_track) | 📌 [Pinterest](https://pinterest.com/dailyfocustrack) | ✍️ [Medium](https://medium.com/@dailyfocustrack)
-
----
-
-### 🏆 Creator Achievements
-<p align="left">
-  <a href="https://www.youtube.com/@Daily_focus_Track" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC1Avi9LDpxC1AgQVRDdmrrw?style=for-the-badge&logo=youtube&color=FF0000&label=Daily_Focus_Track%20Subs" alt="Daily Focus Track Subscribers" /></a>
-  <a href="https://www.youtube.com/@Daily_focus_Track" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UC1Avi9LDpxC1AgQVRDdmrrw?style=for-the-badge&logo=youtube&color=FF0000&label=Views" alt="Daily Focus Track Views" /></a>
-</p>
-<p align="left">
-  <a href="https://youtube.com/@space_gallary" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC2iT7rfPPYj_V8-RDM6nyzQ?style=for-the-badge&logo=youtube&color=1da1f2&label=Space_Gallary%20Subs" alt="Space Gallary Subscribers" /></a>
-  <a href="https://youtube.com/@space_gallary" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UC2iT7rfPPYj_V8-RDM6nyzQ?style=for-the-badge&logo=youtube&color=1da1f2&label=Views" alt="Space Gallary Views" /></a>
-</p>
-<p align="left">
-  <a href="https://www.keybr.com/profile/340e1xv" target="_blank"><img src="https://img.shields.io/badge/Keybr-Typing_Speed_Profile-32CD32?style=for-the-badge&logo=keyboard&logoColor=white" alt="Keybr Profile" /></a>
-</p>
-
----
-
-### 🤝🏻 Connect with Me
-
-<p align="left">
-  <a href="https://vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="https://dev.vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog"/></a>
-  <a href="https://linkedin.vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://x.com/DailyFocusTrack" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.youtube.com/@Daily_focus_Track" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://reddit.com/user/DailyFocusTrack" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-  <a href="http://insta.vallarasuk.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://threads.net/@daily_focus_track" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
-  <a href="https://pinterest.com/dailyfocustrack" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
-  <a href="https://medium.com/@dailyfocustrack" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://chat.whatsapp.com/JzCFT47gI6aE8O6mJA96V0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
-
-- 📧 **Direct:** [contact@vallarasuk.com](mailto:contact@vallarasuk.com)
-- 👥 **Community:** [WhatsApp Squad](http://squad.vallarasuk.com/)
-
----
-
-### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vallarasuk&show_icons=true&theme=radical&hide_border=true&v=2" alt="Vallarasu's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasuk&theme=radical&hide_border=true&v=2" alt="Vallarasu's Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vallarasuk&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" />
+  <b>📧 Email:</b> <a href="mailto:contact@vallarasuk.com">contact@vallarasuk.com</a>
 </p>
 
----
+<br/>
 
-### 🐍 Contribution Snake Animation
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vallarasuk&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&hide_border=true&rank_icon=github&icon_color=00D9FF&title_color=00D9FF" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasuk&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallarasuk&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00D9FF" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vallarasuk&theme=github_dark&utcOffset=8" width="49%" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vallarasuk/vallarasuk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vallarasuk/vallarasuk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vallarasuk/vallarasuk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vallarasuk/vallarasuk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vallarasuk/vallarasuk/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/vallarasuk/vallarasuk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+</div>
+
+<br/>
+
+## 📍 Visitor Map
+
+<div align="center">
+  <img src="https://repobeats.axiom.co/api/embed/your-repo-id.svg" />
+  <br/>
+  <img src="https://profile-counter.glitch.me/vallarasuk/count.svg" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
