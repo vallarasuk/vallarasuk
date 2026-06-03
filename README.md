@@ -128,11 +128,11 @@ I manage automated content pipelines for space and professional growth.
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vallarasuk&show_icons=true&theme=radical&hide_border=true" alt="Vallarasu's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasuk&theme=radical&hide_border=true" alt="Vallarasu's Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vallarasuk&show_icons=true&theme=radical&hide_border=true&v=2" alt="Vallarasu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasuk&theme=radical&hide_border=true&v=2" alt="Vallarasu's Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vallarasuk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vallarasuk&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" />
 </p>
 
 ---
