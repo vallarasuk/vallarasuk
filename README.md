@@ -89,13 +89,27 @@ I manage automated content pipelines for space and professional growth.
 
 ---
 
-### 📬 Connect With Me
+### 🤝🏻 Connect with Me
+
 <p align="left">
-<a href="https://vallarasuk.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="vallarasuk.com" height="30" width="40" /></a>
-<a href="https://linkedin.vallarasuk.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.vallarasuk.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-<a href="http://insta.vallarasuk.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://chat.whatsapp.com/JzCFT47gI6aE8O6mJA96V0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+  <a href="https://vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://dev.vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog"/></a>
+  <a href="https://linkedin.vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Stack_Exchange-1E5397?style=for-the-badge&logo=stack-exchange&logoColor=white" alt="Stack Exchange"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft_MVP-1490DF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP"/></a>
+  <a href="https://github.vallarasuk.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HackerNews-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white" alt="HackerNews"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="http://insta.vallarasuk.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HackHands-31A1C9?style=for-the-badge&logo=hackhands&logoColor=white" alt="HackHands"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://chat.whatsapp.com/JzCFT47gI6aE8O6mJA96V0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 - 📧 **Direct:** [contact@vallarasuk.com](mailto:contact@vallarasuk.com)
