@@ -39,6 +39,22 @@
   <table>
     <tr>
       <td width="50%">
+        <h3 align="center">🧹 TypePurify Ecosystem</h3>
+        <p align="center">
+          <a href="https://typepurify.vallarasuk.com" target="_blank">
+            <img src="https://img.shields.io/badge/Docs_Site-typepurify.vallarasuk.com-00D9FF?style=flat-square&logo=google-chrome" />
+          </a>
+          <a href="https://www.npmjs.com/package/typepurify" target="_blank">
+            <img src="https://img.shields.io/badge/NPM_Downloads-32k%2B-CB3837?style=flat-square&logo=npm" />
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" />
+          <img src="https://img.shields.io/badge/15_Packages-Monorepo-000000?style=flat-square" />
+        </p>
+      </td>
+      <td width="50%">
         <h3 align="center">🎨 Portfolio Ecosystem</h3>
         <p align="center">
           <a href="https://vallarasuk.com" target="_blank">
@@ -54,6 +70,8 @@
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
         </p>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
         <h3 align="center">🔌 VS Code Extensions</h3>
         <p align="center">
@@ -69,8 +87,6 @@
           <img src="https://img.shields.io/badge/VS_Code_API-007ACC?style=flat-square&logo=visual-studio-code" />
         </p>
       </td>
-    </tr>
-    <tr>
       <td width="50%">
         <h3 align="center">🌐 Chrome Extensions</h3>
         <p align="center">
@@ -86,7 +102,9 @@
           <img src="https://img.shields.io/badge/Web_Extensions-FF4B2B?style=flat-square" />
         </p>
       </td>
-      <td width="50%">
+    </tr>
+    <tr>
+      <td width="50%" colspan="2">
         <h3 align="center">🛠️ Web Utilities</h3>
         <p align="center">
           <a href="https://atsresumemaker.vallarasuk.com/" target="_blank">
@@ -148,7 +166,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/VSCode_Extensions_Published-5+-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/NPM_Downloads-32k+-CB3837?style=flat-square&logo=npm" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/VSCode_Extensions-5+-007ACC?style=flat-square" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/YouTube_Views-120k+-FF0000?style=flat-square" />
@@ -228,8 +249,6 @@
 </div>
 
 <br/>
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%" />
