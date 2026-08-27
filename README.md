@@ -41,8 +41,8 @@
       <td width="50%">
         <h3 align="center">🧹 TypePurify Ecosystem</h3>
         <p align="center">
-          <a href="https://typepurify.vallarasuk.com" target="_blank">
-            <img src="https://img.shields.io/badge/Docs_Site-typepurify.vallarasuk.com-00D9FF?style=flat-square&logo=google-chrome" />
+          <a href="https://typepurify.vallarasuk.in" target="_blank">
+            <img src="https://img.shields.io/badge/Docs_Site-typepurify.vallarasuk.in-00D9FF?style=flat-square&logo=google-chrome" />
           </a>
           <a href="https://www.npmjs.com/package/typepurify" target="_blank">
             <img src="https://img.shields.io/badge/NPM_Downloads-32k%2B-CB3837?style=flat-square&logo=npm" />
@@ -57,11 +57,11 @@
       <td width="50%">
         <h3 align="center">🎨 Portfolio Ecosystem</h3>
         <p align="center">
-          <a href="https://vallarasuk.com" target="_blank">
-            <img src="https://img.shields.io/badge/Main_Portfolio-vallarasuk.com-3b5998?style=flat-square&logo=vercel" />
+          <a href="https://vallarasuk.in" target="_blank">
+            <img src="https://img.shields.io/badge/Main_Portfolio-vallarasuk.in-3b5998?style=flat-square&logo=vercel" />
           </a>
-          <a href="https://dev.vallarasuk.com" target="_blank">
-            <img src="https://img.shields.io/badge/Dev_Blog-dev.vallarasuk.com-FF5722?style=flat-square&logo=dev.to" />
+          <a href="https://dev.vallarasuk.in" target="_blank">
+            <img src="https://img.shields.io/badge/Dev_Blog-dev.vallarasuk.in-FF5722?style=flat-square&logo=dev.to" />
           </a>
         </p>
         <p align="center">
@@ -107,10 +107,10 @@
       <td width="50%" colspan="2">
         <h3 align="center">🛠️ Web Utilities</h3>
         <p align="center">
-          <a href="https://atsresumemaker.vallarasuk.com/" target="_blank">
+          <a href="https://atsresumemaker.vallarasuk.in/" target="_blank">
             <img src="https://img.shields.io/badge/ATS_Resume_Maker-FF6B6B?style=flat-square" />
           </a>
-          <a href="https://placefinder.vallarasuk.com/" target="_blank">
+          <a href="https://placefinder.vallarasuk.in/" target="_blank">
             <img src="https://img.shields.io/badge/Place_Finder-4ECDC4?style=flat-square" />
           </a>
         </p>
@@ -148,7 +148,7 @@
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/WhatsApp_Squad-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br/>
-        <a href="http://squad.vallarasuk.com/" target="_blank">
+        <a href="http://squad.vallarasuk.in/" target="_blank">
           <img src="https://img.shields.io/badge/Join_Community-128C7E?style=flat-square&logo=whatsapp" />
         </a>
         <br/>
@@ -195,13 +195,13 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://vallarasuk.com" target="_blank">
+  <a href="https://vallarasuk.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.vallarasuk.com" target="_blank">
+  <a href="https://linkedin.vallarasuk.in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.vallarasuk.com" target="_blank">
+  <a href="https://github.vallarasuk.in" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://x.com/DailyFocusTrack" target="_blank">
@@ -210,7 +210,7 @@
   <a href="https://www.youtube.com/@Daily_focus_Track" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="http://insta.vallarasuk.com/" target="_blank">
+  <a href="http://insta.vallarasuk.in/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://chat.whatsapp.com/JzCFT47gI6aE8O6mJA96V0" target="_blank">
@@ -219,7 +219,7 @@
 </div>
 
 <p align="center">
-  <b>📧 Email:</b> <a href="mailto:contact@vallarasuk.com">contact@vallarasuk.com</a>
+  <b>📧 Email:</b> <a href="mailto:admin@vallarasuk.in">admin@vallarasuk.in</a>
 </p>
 
 <br/>
